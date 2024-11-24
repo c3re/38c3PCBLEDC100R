@@ -4,7 +4,7 @@ The 38c3PCBLEDC100 is a Coaster for your drinks with option for LED and microcon
 ## Rev.0
 ### Electrical connections
 Important: Do not power the board by USB and an external power supply at the same time!
-The Din pin of the first LED is connected to pin D4 (GPIO2) of the Wemos D1 mini. Two of the mounting holes are connected to GND, two of the holes are connected to 5V. You can use this feature to stack multiple 37c3PCBLEDc100R Boards with brass spacers.
+The Din pin of the first LED is connected to pin D4 (GPIO2) of the Wemos D1 mini. Two of the mounting holes are connected to GND, two of the holes are connected to 5V. You can use this feature to stack multiple 38c3PCBLEDc100R Boards with brass spacers.
 
 ## License
 The 38c3 Logo and the dithered image of the bolt cutter were created by Robokid // Luis F. Masallera and Euler Void \
